@@ -15,3 +15,4 @@ Introduction To IOT Session 1
 * [GreatScott](https://www.youtube.com/c/greatscottlab)
 * [Bitluni](https://www.youtube.com/c/bitlunislab)
 * [Kevin Darrah](https://www.youtube.com/c/Kevindarrah)
+* [Omar Mekkawy](https://www.youtube.com/OmarMekkawy)
